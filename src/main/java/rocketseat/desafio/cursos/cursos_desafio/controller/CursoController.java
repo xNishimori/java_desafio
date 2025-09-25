@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import rocketseat.desafio.cursos.cursos_desafio.dto.CursoDTO;
 import rocketseat.desafio.cursos.cursos_desafio.model.Curso;
-import rocketseat.desafio.cursos.cursos_desafio.servide.CursoService;
+import rocketseat.desafio.cursos.cursos_desafio.service.CursoService;
 
 import java.util.List;
 import java.util.Map;

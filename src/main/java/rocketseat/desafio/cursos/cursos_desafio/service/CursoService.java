@@ -1,4 +1,4 @@
-package rocketseat.desafio.cursos.cursos_desafio.servide;
+package rocketseat.desafio.cursos.cursos_desafio.service;
 
 import org.springframework.stereotype.Service;
 import rocketseat.desafio.cursos.cursos_desafio.dto.CursoDTO;
